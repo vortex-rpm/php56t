@@ -10,7 +10,7 @@
 
 %global base_ver 5.6
 %global real_name php
-%global ius_suffix 56u
+%global ius_suffix 56t
 %global phpfpm_user php-fpm
 %global phpfpm_group %{phpfpm_user}
 %global phpfpm_home %{_localstatedir}/lib/php-fpm
