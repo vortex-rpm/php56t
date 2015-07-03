@@ -82,7 +82,7 @@
 
 %global with_dtrace 1
 
-%global with_litespeed 1
+%global with_litespeed 0
 
 # build with system libgd
 %if 0%{?fedora} < 20
